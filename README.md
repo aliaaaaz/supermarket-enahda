@@ -1,3 +1,4 @@
+ HEAD
 # SuperMarket eNahda
 
 A supermarket storefront and admin dashboard built with React, Vite, Express, and SQLite.
@@ -7,7 +8,7 @@ A supermarket storefront and admin dashboard built with React, Vite, Express, an
 Use Node.js 22.12 or newer. From the project root:
 
 ```powershell
-npm ci
+npm c
 Copy-Item server/.env.example server/.env
 npm run dev:server
 npm run dev
@@ -30,3 +31,39 @@ npm run build
 - Signed, expiring bearer sessions for admin operations
 - Product and order management for administrators
 - Cash-on-delivery checkout; online card and wallet processing are not configured
+=======
+
+# supermarket-enahda
+Modern E-commerce platform for SuperMarket eNahda - Agadir, Morocco
+
+# 🛒 SuperMarket eNahda
+
+## مشروع
+
+متجر إلكتروني احترافي لسوبرماركت eNahda بمدينة أكادير.
+
+---
+
+## اللغات
+
+- العربية 🇲🇦
+- الفرنسية 🇫🇷
+- الإنجليزية 🇬🇧
+
+---
+
+## التقنيات
+
+- Next.js
+- Node.js
+- PostgreSQL
+- Tailwind CSS
+- Git
+- GitHub
+
+---
+
+## حالة المشروع
+
+🚧 قيد التطوير
+>>>>>>> 97abf8c2923a1fd251d5f2cf652d21aed6370db7
