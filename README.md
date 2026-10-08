@@ -66,4 +66,4 @@ Modern E-commerce platform for SuperMarket eNahda - Agadir, Morocco
 ## حالة المشروع
 
 🚧 قيد التطوير
->>>>>>> 97abf8c2923a1fd251d5f2cf652d21aed6370db7
+>>>>>>> 
